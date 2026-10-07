@@ -1,5 +1,5 @@
 // 올리브짬뽕 할로윈 게임 - 오프라인 캐시
-const CACHE = 'olive-v1';
+const CACHE = 'olive-v3';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'og.png',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png'];
 

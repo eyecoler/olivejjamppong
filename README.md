@@ -21,13 +21,12 @@
 
 ## GitHub에 올리기 (10분)
 
-1. GitHub에서 **New repository** → 이름 `olive-jjamppong` → **Public** → Create
+1. GitHub에서 **New repository** → 이름 `olivejjamppong` → **Public** → Create
 2. **Add file → Upload files** → 이 폴더 안의 파일·폴더 전부 드래그 → Commit
 3. **Settings → Pages** → Source: `Deploy from a branch` → Branch: `main` / `(root)` → Save
-4. 1~2분 뒤 주소 생성: `https://내아이디.github.io/olive-jjamppong/`
+4. 1~2분 뒤 주소: **https://eyecoler.github.io/olivejjamppong/**
 
-> ⚠️ `index.html` 안의 `GITHUB_ID` 두 군데를 내 GitHub 아이디로 바꿔야 카톡 공유 썸네일이 뜸.
-> (`og:image`, `og:url` 줄)
+> 카톡 썸네일 주소는 위 주소로 설정 완료. 저장소 이름을 바꾸면 `index.html`의 `og:image`, `og:url` 두 줄도 같이 바꿔야 함.
 
 ## 폰에 앱으로 설치
 
